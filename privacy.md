@@ -18,6 +18,11 @@ your use of the app.
 - The camera is used for exactly one thing: filming your own video ideas, and only when
   you start filming.
 - Your recordings, videos, lyrics, ideas, and songs are stored on your device.
+- Bridge transcribes your voice memos using Apple's speech recognition, **entirely on
+  your device**, for exactly two things: giving a memo a title made of your own words,
+  and letting you search your memos by what you said. The audio and the transcript
+  never leave your phone, are never sent to Apple or anyone else, and the title stays
+  fully editable.
 - If you are signed into iCloud, Bridge syncs your data to **your own private iCloud
   database** so it appears on your other devices. This data is tied to your Apple
   Account, hosted by Apple, and technically inaccessible to the developer — we could
