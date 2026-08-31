@@ -79,6 +79,12 @@ still software.
 If these terms change, the updated version will be posted here with a new
 effective date.
 
+## Governing law
+
+These supplemental terms are governed by the laws of the State of Ohio, USA,
+without regard to conflict-of-law rules. The standard Apple licensed
+application terms they supplement carry their own governing-law provision.
+
 ## Contact
 
 **[bridgenotebookapp@gmail.com](mailto:bridgenotebookapp@gmail.com)**
