@@ -5,7 +5,7 @@ Something wrong, or something you want? Write to
 answer from the person who made the app.
 
 When you write, the two things that help most are **what you were doing** and the
-version number, which is at the bottom of Settings (it looks like `Bridge 1.0 (3)`).
+version number, which is at the bottom of Settings (it looks like `Bridge 1.0 (26)`).
 
 ---
 
@@ -13,15 +13,14 @@ version number, which is at the bottom of Settings (it looks like `Bridge 1.0 (3
 
 ### Where did my recording go?
 
-Everything you capture lands in **Ideas**, on the home screen. Voice memos are
-named "Vocal 1", "Vocal 2" and so on until you rename them — hold a row and
-choose Rename, or swipe it.
+Everything you capture lands in **Ideas**, on the home screen. A voice idea
+names itself from what you sang, when it can make the words out; otherwise it's
+"Vocal 1", "Vocal 2". Either way, hold the row and choose Rename, or swipe it.
 
 ### I deleted something by accident.
 
-Nothing you delete leaves for **30 days**. Settings is not where to look — it's
-the **Recently Deleted** row at the bottom of the home screen. Swipe a row there
-and choose Restore.
+Nothing you delete leaves for **30 days**. Open **Settings** and tap **Recently
+Deleted**, then swipe a row and choose Restore.
 
 ### Do I need an account?
 
