@@ -5,7 +5,7 @@ Something wrong, or something you want? Write to
 answer from the person who made the app.
 
 When you write, the two things that help most are **what you were doing** and the
-version number, which is at the bottom of Settings (it looks like `Bridge 1.0 (26)`).
+version number, which is at the bottom of Settings (it looks like `Bridge 1.0 (29)`).
 
 ---
 
